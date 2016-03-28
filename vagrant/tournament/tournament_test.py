@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#
 # Test cases for tournament.py
 # These tests are not exhaustive, but they should cover the majority of cases.
 #
